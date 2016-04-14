@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi, Humans!
+
+JAVAPRIMER here, I like code.
+
